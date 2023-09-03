@@ -1,4 +1,4 @@
-package com.hahow
+package com.hahow.views
 
 import android.app.Activity
 import android.os.Bundle

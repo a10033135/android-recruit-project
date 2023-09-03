@@ -14,7 +14,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Androidrecruitproject">
         <activity
-            android:name="com.hahow.MainActivity"
+            android:name="com.hahow.views.MainActivity"
             android:exported="true"
             android:theme="@style/Theme.Androidrecruitproject">
             <intent-filter>
